@@ -1,0 +1,12 @@
+[
+  {
+    "symbol": "TSLA",
+    "targetPrice": 340,
+    "direction": "above"
+  },
+  {
+    "symbol": "AAPL",
+    "targetPrice": 200,
+    "direction": "below"
+  }
+]

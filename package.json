@@ -1,0 +1,17 @@
+{
+  "name": "StockBot",
+  "version": "1.0.0",
+  "description": "Checks my stocks for target prices",
+  "main": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/node": "^20.3.1",
+    "@types/node-telegram-bot-api": "^0.61.6",
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.0",
+    "node-telegram-bot-api": "^0.61.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  }
+}
